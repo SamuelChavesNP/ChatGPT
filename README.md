@@ -4,12 +4,12 @@
 </h1><br> <br>
 
 ## 📋 Sobre
-Esse projeto é um clone do **ChatGPT** completo, totalmente funcional.
+Esse projeto é um clone do **ChatGPT** completo, totalmente funcional.<br><br><br>
 
 ## 📀 Do que você precisará para rodar o projeto?
 - [NextJS 13](https://nextjs.org/)
 - [NodeJS](https://nodejs.org/en)
-- [Uma API da OpenAI](https://openai.com/blog/openai-api)
+- [Uma API da OpenAI](https://openai.com/blog/openai-api)<br><br><br>
 
 ## 💻 Tecnologias
 - [NextJS 13](https://nextjs.org/)
