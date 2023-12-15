@@ -14,7 +14,7 @@ export const ChatPlaceholder = () => {
 
           <div className="bg-white/5 rounded text-center text-sm text-white mb-3 p-3">"Olá"</div>
 
-          <div className="bg-white/5 rounded text-center text-sm text-white mb-3 p-3">"Léo viado"</div>
+          <div className="bg-white/5 rounded text-center text-sm text-white mb-3 p-3">"Digite alguma coisa"</div>
         </div>
 
       </div>
